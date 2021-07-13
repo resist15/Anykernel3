@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Common Xiaomi SDM845 kernel by xiaomi-sdm845-devel team
+kernel.string=ArsenalX Kernel For Beryllium By RESIST15
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=beryllium
-device.name2=dipper
-device.name3=polaris
+device.name2=
+device.name3=
 device.name4=
 device.name5=
 supported.versions=10,11
